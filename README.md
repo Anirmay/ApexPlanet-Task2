@@ -31,39 +31,3 @@ python -m http.server 8000
 Then visit: http://localhost:8000/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🚀 **Task 2 Completed — Web Development**
-
-I’m excited to share that I’ve successfully completed **Task 2 of my Web Development Internship at ApexPlanet Software Pvt. Ltd.**
-
-In this task, I enhanced my skills in **HTML, CSS, and JavaScript** by building an interactive and responsive web application.
-
-🔹 **Contact Form** — Created and styled a form with text, email, and other input fields.
-🔹 **JavaScript Form Validation** — Implemented required-field and email-format validation with error and success messages.
-🔹 **Responsive Layout** — Used **Flexbox, CSS Grid, and Media Queries** to create a responsive layout for different screen sizes.
-🔹 **Dynamic To-Do List** — Implemented DOM manipulation to dynamically add and remove tasks using JavaScript.
-
-This task helped me gain a better understanding of **DOM manipulation, form validation, responsive design, and interactive web development**.
-
-🔗 **GitHub Repository:** https://github.com/Anirmay/ApexPlanet-Task2
-
-#ApexPlanet #WebDevelopment #HTML #CSS #JavaScript #DOMManipulation #ResponsiveDesign #FrontendDevelopment #Internship #GitHub #Learning
